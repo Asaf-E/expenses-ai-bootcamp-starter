@@ -51,6 +51,7 @@ Official resources:
 ## Additional Requirements
 
 - Python (required by Spec Kit setup)
+- npm
 - Git (recommended for project setup)
 - Access to the starter project
 - Ability to run the project locally
