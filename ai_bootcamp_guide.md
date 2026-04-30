@@ -55,6 +55,7 @@ You are responsible for:
 ### Step 1 — Run the Project (~5 min)
 
 - Clone the starter project
+- Command: git clone https://github.com/Asaf-E/expenses-ai-bootcamp-starter.git
 - Run it locally
 - Explore the UI briefly
 
