@@ -67,6 +67,7 @@ Goal: Understand what already exists
 - Clone Spec-Kit
 - Install it in your IDE
 - Confirm it works
+- Command: 'uvx --from git+https://github.com/github/spec-kit.git specify init --here'
 
 Goal: Prepare your AI tooling
 
