@@ -55,8 +55,9 @@ You are responsible for:
 ### Step 1 — Run the Project (~5 min)
 
 - Clone the starter project
-- Command: git clone https://github.com/Asaf-E/expenses-ai-bootcamp-starter.git
+- Command: `git clone https://github.com/Asaf-E/expenses-ai-bootcamp-starter.git`
 - If you can't clone with git, access the location 'https://github.com/Asaf-E/expenses-ai-bootcamp-starter.git' and download a zip.
+- Another option is to download it from Box.
 - Run it locally (Ask the agent to run it locally -> it will install all the prerequisites). No need for complex configuration.
 - Explore the UI briefly
 
@@ -67,7 +68,7 @@ Goal: Understand what already exists
 ### Step 2 — Set Up Spec-Kit (~15 min)
 
 - Install and run Spec-Kit using the following command in copilot.
-- Command: 'uvx --from git+https://github.com/github/spec-kit.git specify init --here'
+- Command: `uvx --from git+https://github.com/github/spec-kit.git specify init --here`
 
 Goal: Prepare your AI tooling
 
@@ -103,14 +104,14 @@ Important:
 
 Use your description to collaborate with AI.
 
-First, Create your constitution before the feature.
+First, create your constitution before defining the feature.
 
 Ask the AI specify.constitution to help you:
 - Create the constitution with the existing tech stack.
 - Set the boundaries for the project.
 
 Next, give the speckit.specify the feature MD file created in step 3.
-Then use speckit.clarify to for the next steps.
+Then use speckit.clarify for the next steps.
 
 Ask the AI to help you:
 - Clarify the feature
@@ -129,10 +130,10 @@ Goal: Produce a **clean, structured design in Markdown**
 Use Spec-Kit + AI to implement your design.
 
 You should:
-- Plan the feature - scikit.plan
-- Create tasks for the feature - scikit.tasks
-- Analyze the created tasks and plan in order to ensure the feature quality - scikit.analyze
-- Generate code - scikit.implement
+- Plan the feature - hint: speckit.plan
+- Create tasks for the feature - hint: speckit.tasks
+- Analyze the created tasks and plan to ensure feature quality. - hint: speckit.analyze
+- Generate code - hint: speckit.implement
 - Review it
 - Fix issues
 - Ask follow-up questions
@@ -195,8 +196,6 @@ The system includes:
 - Dashboards and reporting
 
 You can extend any part of this.
-
-For full details, refer to the full specification: fileciteturn1file0
 
 ---
 
