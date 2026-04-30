@@ -56,6 +56,7 @@ Official resources:
 - Git (recommended for project setup)
 - Access to the starter project
 - Ability to run the project locally
+- Hint: Use the AI to install missing project dependencies after you have the IDE + Copilot :)
 
 ---
 
