@@ -103,6 +103,15 @@ Important:
 
 Use your description to collaborate with AI.
 
+First, Create your constitution before the feature.
+
+Ask the AI specify.constitution to help you:
+- Create the constitution with the existing tech stack.
+- Set the boundaries for the project.
+
+Next, give the speckit.specify the feature MD file created in step 3.
+Then use speckit.clarify to for the next steps.
+
 Ask the AI to help you:
 - Clarify the feature
 - Define behavior and edge cases
@@ -120,7 +129,10 @@ Goal: Produce a **clean, structured design in Markdown**
 Use Spec-Kit + AI to implement your design.
 
 You should:
-- Generate code
+- Plan the feature - scikit.plan
+- Create tasks for the feature - scikit.tasks
+- Analyze the created tasks and plan in order to ensure the feature quality - scikit.analyze
+- Generate code - scikit.implement
 - Review it
 - Fix issues
 - Ask follow-up questions
