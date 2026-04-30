@@ -57,7 +57,7 @@ You are responsible for:
 - Clone the starter project
 - Command: git clone https://github.com/Asaf-E/expenses-ai-bootcamp-starter.git
 - If you can't clone with git, access the location 'https://github.com/Asaf-E/expenses-ai-bootcamp-starter.git' and download a zip.
-- Run it locally
+- Run it locally (Ask the agent to run it locally -> it will install all the prerequisites). No need for complex configuration.
 - Explore the UI briefly
 
 Goal: Understand what already exists
