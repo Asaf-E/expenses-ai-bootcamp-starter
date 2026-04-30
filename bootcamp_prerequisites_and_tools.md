@@ -45,6 +45,7 @@ It helps you:
 Official resources:
 - Installation guide: https://github.github.com/spec-kit/installation.html
 - Quickstart: https://github.github.com/spec-kit/quickstart.html
+- Quick command to install and apply on current project: uvx --from git+https://github.com/github/spec-kit.git specify init --here
 
 ---
 
