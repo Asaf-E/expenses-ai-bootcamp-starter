@@ -66,9 +66,7 @@ Goal: Understand what already exists
 
 ### Step 2 — Set Up Spec-Kit (~15 min)
 
-- Clone Spec-Kit
-- Install it in your IDE
-- Confirm it works
+- Install and run Spec-Kit using the following command in copilot.
 - Command: 'uvx --from git+https://github.com/github/spec-kit.git specify init --here'
 
 Goal: Prepare your AI tooling
