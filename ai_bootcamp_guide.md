@@ -65,7 +65,7 @@ Goal: Understand what already exists
 
 ---
 
-### Step 2 — Set Up Spec-Kit (~15 min)
+### Step 2 — Set Up Spec-Kit (~10 min)
 
 - Install and run Spec-Kit using the following command in copilot.
 - Command: `uvx --from git+https://github.com/github/spec-kit.git specify init --here`
@@ -74,7 +74,7 @@ Goal: Prepare your AI tooling
 
 ---
 
-### Step 3 — Define a Feature (~20 min)
+### Step 3 — Define a Feature (~10 min)
 
 Choose a feature you want to build or improve.
 
@@ -125,7 +125,7 @@ Goal: Produce a **clean, structured design in Markdown**
 
 ---
 
-### Step 5 — Implement with AI (~50 min)
+### Step 5 — Implement with AI (~30 min)
 
 Use Spec-Kit + AI to implement your design.
 
