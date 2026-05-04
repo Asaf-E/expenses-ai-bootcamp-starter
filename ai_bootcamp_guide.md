@@ -79,11 +79,11 @@ Goal: Prepare your AI tooling
 Choose a feature you want to build or improve.
 
 Options:
-- Create report
-- Update report
-- Approval workflow
-- Authentication
-- Notifications
+- Create report - Recommended (easy)
+- Update report (easy)
+- Approval workflow (medium)
+- Authentication (hard)
+- Notifications (medium)
 
 Then create a short Markdown description (5–15 lines):
 
